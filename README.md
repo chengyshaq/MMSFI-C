@@ -1,6 +1,6 @@
 ### Code Package for MMSFI_C
 
-Qingyan Li, Yusheng Cheng. The Graph Attention Model for Multi-view Multi-label Learning with Shared Feature Inconsistency.
+Qingyan Li, Yusheng Cheng. The Graph Attention Model for Multi-view Multi-label Learning with Shared Feature Inconsistency submitted to International Journal of Machine Learning and Cybernetics.
 
 ### Environment
 - Python: 3.6.13
